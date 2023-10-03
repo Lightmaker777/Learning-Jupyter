@@ -1,1 +1,1 @@
-# Just testing and training to write codes with jupiter
+# Just testing and training to write codes with jupyter
